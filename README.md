@@ -4,7 +4,7 @@
 
 ## Overview
 
-`jinw2` is an example Team-Fortress 2 Lua-based internal trainer project. It exposes Source SDK functions that Lua script instances can call.
+`jinw2` is an example Team-Fortress 2 Lua-driven (C++ backed) internal trainer project. It exposes Source SDK functions that Lua script instances can call.
 
 ## Usage
 
